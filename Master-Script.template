@@ -1,5 +1,3 @@
-#Dilshacomment
-#DilshanComment2
 {
     "AWSTemplateFormatVersion" : "2010-09-09",
     "Description"              : "Amazon WorkSpaces Deployment Template.  This template will deploy the resources needed to deploy a single Amazon WorkSpaces desktop.\n",
